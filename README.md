@@ -1,8 +1,8 @@
 # GDGC Cloud Recruitment
 
 ## Candidate
--**Name:** Md Samim Ahmed
--**GitHub Username:** HalfMirroredApostle
+- **Name:** Md Samim Ahmed
+- **GitHub Username:** HalfMirroredApostle
 
 ## Overview
 This repository contains my submission for the GDGC Cloud Recruitment Linux tasks. The tasks were completed using Kali Linux in a VMware virtual machine. I have tried to keep it as simple as possible within my range of knowledge. Due to the time constraints brought upon me due to the hostel shifting process, I wan unable to attempt the bonus tasks.
